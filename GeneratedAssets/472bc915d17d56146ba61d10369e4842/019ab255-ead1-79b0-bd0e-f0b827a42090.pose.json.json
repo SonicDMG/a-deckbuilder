@@ -1,0 +1,11 @@
+{
+    "asset": "472bc915d17d56146ba61d10369e4842",
+    "fileName": "019ab255-ead1-79b0-bd0e-f0b827a42090.pose.json",
+    "prompt": "Animate the text 'A-Deckbuilder' across the UI with lighting effects.",
+    "negativePrompt": "",
+    "model": "9e46c009-67d8-4254-a3a0-32e3168247ee",
+    "modelName": "Text to Motion",
+    "customSeed": 645374147,
+    "w3CTraceId": "d5a66367d7886ee4e6923941c4897f80",
+    "isTrimmed": false
+}

@@ -12,7 +12,7 @@ public class PanelResizer : MonoBehaviour
     void Start()
     {
         panelRectTransform = GetComponent<RectTransform>();
-        Debug.Log("rectTransform: " + panelRectTransform);
+        Debug.Log("rectTransform: " + panelRectTransform.offsetMin + " " + panelRectTransform.offsetMax);
         if (panelRectTransform != null)
         {
             panelRectTransform.anchorMin = new Vector2(0, 0);

@@ -1,0 +1,11 @@
+{
+    "asset": "a0047ddb3e5c70248a11a5f7fc2a2819",
+    "fileName": "019ab256-ad0c-7e82-adc9-cf7c42767241_Preview.png",
+    "prompt": "Create lighting effects material for animating text 'A-Deckbuilder'.",
+    "negativePrompt": "",
+    "model": "44ec3749-963a-44b1-aa54-dc19f6ed8ab2",
+    "modelName": "Unity Texture2D",
+    "customSeed": 1153551554,
+    "w3CTraceId": "7d1352e9b6d66d6bd9977fb2bcdb0af9",
+    "refinementMode": "Generation"
+}
