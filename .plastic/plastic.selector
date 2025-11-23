@@ -1,0 +1,4 @@
+repository "A DeckBuilder/A DeckBuilder@2385465@cloud"
+  path "/"
+    br "/main"
+    co "/main"
