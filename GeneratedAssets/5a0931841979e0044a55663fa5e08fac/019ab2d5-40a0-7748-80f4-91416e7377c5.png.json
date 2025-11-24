@@ -1,0 +1,20 @@
+{
+    "asset": "5a0931841979e0044a55663fa5e08fac",
+    "fileName": "019ab2d5-40a0-7748-80f4-91416e7377c5.png",
+    "prompt": "pixel art boat, just the boat\n",
+    "negativePrompt": "",
+    "model": "5b5b2af1-6ea4-4266-b087-cc9f3bf4f450",
+    "modelName": "Flux.1 Dev",
+    "customSeed": -1,
+    "w3CTraceId": "220389ff77ba4956acbfda7e7ead6499",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}

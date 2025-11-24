@@ -16,6 +16,6 @@ public class TextAnimator : MonoBehaviour
     void Update()
     {
         timer += Time.deltaTime * speed;
-        textMeshPro.color = Color.Lerp(startColor, endColor, Mathf.PingPong(timer, 1));
+        textMeshPro.color = Color.Lerp(startColor, endColor, Mathf.PingPong(timer, 2));
     }
 }
