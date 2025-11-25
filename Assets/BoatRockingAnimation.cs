@@ -16,6 +16,6 @@ public class BoatRockingAnimation : MonoBehaviour
     {
         time += Time.deltaTime * rotationSpeed;
         float angle = Mathf.Sin(time) * rotationAngle;
-        transform.localRotation = Quaternion.Euler(angle, 0, 0);
+        transform.localRotation = Quaternion.Euler(0, angle, angle * .5f);
     }
 }
